@@ -1,0 +1,23 @@
+#especial{
+	color: #FF0000;
+}
+.verde{
+	color: #00FF00;
+}
+h1{
+	color: #0000FF;
+
+    border-style: dashed;
+	border-color: #fac244;
+   	border-width: 5px;
+   	border-left-color:#FF09FF; 
+   	   	border-right-color:#00FFFF; 
+   	border-top-color:#113355; 
+   	border-bottom-color:none; 
+
+}
+body{
+	background: url(imagenescss/piedad.jpg); 
+	background:-repeat: no-repeat; 
+	background-size: cover;
+}
